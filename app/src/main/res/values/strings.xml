@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestRinnApplication</string>
+    <string name="idTextView">Id</string>
+    <string name="nameTextView">Name</string>
+    <string name="emailTextView">Email</string>
+    <string name="genderTextView">Gender</string>
+    <string name="statusTextView">Status</string>
+    <string name="created_atTextView">Created</string>
+    <string name="updated_atTextView">Updated</string>
+    <string name="title_activity_splash_screen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
